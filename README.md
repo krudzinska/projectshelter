@@ -9,6 +9,6 @@ a responsive web for an animal shelter in React, with animals database.
 - ...
 
 
-***Technologies: HTML, CSS, Sass, Webpack, JavaScript, React, ReactRouter***
+***Technologies: HTML, CSS, Sass, RWD, Webpack, JavaScript, React, ReactRouter***
 
 Live preview: https://krudzinska.github.io/projectshelter/dist/
