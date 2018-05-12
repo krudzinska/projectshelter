@@ -1,7 +1,8 @@
 # Project Shelter - status: in progress
 
-a responsive web for an animal shelter, with animals database.
+a responsive web for an animal shelter in React, with animals database.
 
+- single-page app
 - slider
 - burger navigation on small screens
 - Routing
